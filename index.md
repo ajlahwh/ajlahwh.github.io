@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img style="float: right; width: 25%" src="{{site.url}}/assets/profile/me.jpg">
+<img style="float: right; width: 25%" src="{{site.url}}/assets/cv/me.jpg">
 
 <h1 class="post-title">Ji-An Li 李济安</h1>
 
@@ -19,12 +19,11 @@ Email: jil095 at ucsd dot edu
 
 # About me
 
-I am a second-year PhD student in the Neurosciences Graduate Program. He is interested in neural computation of reinforcement learning and back propagation in the biological brain. He is currently co-advised by Dr. Marcelo Mattar.
+I am a second-year PhD student in the Neurosciences Graduate Program, working with [Dr. Marcelo Mattar](https://mattarlab.ucsd.edu/people) and [Dr. Marcus Benna](https://bennalab.biosci.ucsd.edu/people/) at University of California San Diego. I am generally interested in the fields of computational neuroscience and computational cognitive science. My research currently focuses on neural computations of reinforcement learning and back propagation in the biological brain, using tools from statistics, physics, machine learning, and data science.
 
-My research now focuses on building computational models for memory, perception, reinforcement learning, and decision making at synaptic, circuit, cognitive, and behavioral levels. My works lay in the field of computational neuroscience and computational cognitive science, using tools from statistics, physics, machine learning, deep learning and other relevant fields.
+Prior to my PhD, I worked with [Dr. Stefano Fusi](https://ctn.zuckermaninstitute.columbia.edu/people/stefano-fusi) and [Dr. Guangyu Robert Yang](https://www.metaconscious.org/people/) at Columbia University, with [Dr. Xiao-Jing Wang](https://www.cns.nyu.edu/wanglab/) at New York University, and with 
+[Dr. Xiaochu Zhang](http://en.hfnl.ustc.edu.cn/Faculty/Facultys/201107/t20110716_116215.html) at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) (as part of my [M.S. in Applied Statistics](http://en.business.ustc.edu.cn/audsf/list.htm)).
 
-Before that, I graduated with [M.S. in Applied Statistics](http://en.business.ustc.edu.cn/audsf/list.htm) from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), under the supervision of [Dr. Yaning Yang](http://staff.ustc.edu.cn/~ynyang/) and [Dr. Xiaochu Zhang](http://en.hfnl.ustc.edu.cn/Faculty/Facultys/201107/t20110716_116215.html). 
-
-Before that, I graduated with [B.S. in Biological Science](https://en.biox.ustc.edu.cn/) and [B.E. in Computer Science and Technology](https://en.cs.ustc.edu.cn/) from [USTC](https://en.ustc.edu.cn/), under the supervision of [Dr. Xiaochu Zhang](http://en.hfnl.ustc.edu.cn/Faculty/Facultys/201107/t20110716_116215.html) and [Dr. Shangfei Wang](http://staff.ustc.edu.cn/~sfwang/).
+Before that, I graduated with [B.S. in Biological Science](https://en.biox.ustc.edu.cn/) and [B.E. in Computer Science and Technology](https://en.cs.ustc.edu.cn/) from [USTC](https://en.ustc.edu.cn/).
 
 
