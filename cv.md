@@ -11,13 +11,13 @@ Computational Neuroscience, Computational Cognitive Science
 
 ## Education 
 
-### University of California, San Diego California, USA
+### University of California, San Diego, California, USA
 
 **Doctoral Study in Neurosciences** 2020 – Present
 
 Advisor: Marcelo Mattar, Marcus Benna GPA: 4.0/4.0
 
-### University of Science and Technology of China Anhui, China
+### University of Science and Technology of China, Anhui, China
 
 **M.S. in Applied Statistics** 2016 – 2019
 
