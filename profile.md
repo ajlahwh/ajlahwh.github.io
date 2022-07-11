@@ -1,8 +1,8 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
-display_title: CV
+title: Profile
+permalink: /profile/
+display_title: Profile
 ---
 
 ## Education

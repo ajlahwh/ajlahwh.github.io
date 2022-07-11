@@ -13,7 +13,7 @@ gem install jekyll bundler
 # set mirror in China
 bundle config mirror.https://rubygems.org https://gems.ruby-china.com
 # cd to blog directory
-cd /mnt/c/Users/jianliacad/OneDrive/jianliacad.github.io
+cd /mnt/c/Users/ajlahwh/OneDrive/ajlahwh.github.io
 # install dependencies in Gemfile
 bundle install
 # run jekyll
