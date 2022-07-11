@@ -11,13 +11,13 @@ Computational Neuroscience, Computational Cognitive Science
 
 ## Education 
 
-University of California, San Diego California, USA
+### University of California, San Diego California, USA
 
 **Doctoral Study in Neurosciences** 2020 – Present
 
 Advisor: Marcelo Mattar, Marcus Benna GPA: 4.0/4.0
 
-University of Science and Technology of China Anhui, China
+### University of Science and Technology of China Anhui, China
 
 **M.S. in Applied Statistics** 2016 – 2019
 
@@ -62,7 +62,7 @@ National Olympiad in Informatics, Anhui Province, First Prize 2010
 
 ## Research 
 
-Department of Neurosciences, UC San Diego
+### Department of Neurosciences, UC San Diego
 
 Advisor: Marcelo Mattar, Marcus Benna 2020 – Present
 
@@ -70,7 +70,7 @@ Discriminating Behavioral Algorithms with Neural Data
 
 Developed a mathematical method (dynamical consistency analysis) that formalizes and measures the mapping between the behavioral algorithms and the neural dynamics, enabling the discrimination of behavioral models based on their dynamical consistency with neural activity. 
 
-School of Life Sciences, University of Science and Technology of China
+### School of Life Sciences, University of Science and Technology of China
 
 Advisor: Xiaochu Zhang 2015 – 2020
 
@@ -82,7 +82,7 @@ Hierarchical Bayesian Models for the Iowa Gambling Task
 
 Undergraduate thesis for Bachelor of Science in Biological Science (Outstanding Undergraduate thesis of USTC).
 
-Zuckerman Institute, Columbia University
+### Zuckerman Institute, Columbia University
 
 Advisor: Stefano Fusi 2018 – 2020
 
@@ -97,7 +97,7 @@ Understanding the Functional and Structural Differences across Excitatory and In
 Developed the convolutional recurrent neural networks equipped with excitatory and inhibitory neurons, serving as a model for the visual cortex. Explored
 the necessary conditions for the networks to develop distinct selectivity and connectivity across cell types.
 
-Center for Neural Science, New York University
+### Center for Neural Science, New York University
 
 Advisor: Xiao-Jing Wang 2017
 
