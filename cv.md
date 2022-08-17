@@ -141,7 +141,11 @@ Student, Japanese and Asian Youth Science Exchange Project 2015
 
 Intern student, Institute of Biophysics (Beijing), CAS 2013
 
-Leadership Vice President, Nature Protection Association, USTC 2015 – 2016
+## Leadership 
+
+Leader, [A Guide to Ph.D. Applications in Brain Sciences](https://brainphd-cn.github.io/handbook/) 2020\\
+
+Vice President, Nature Protection Association, USTC 2015 – 2016
 
 ## Programming 
 
