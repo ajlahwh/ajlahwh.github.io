@@ -13,7 +13,7 @@ School of Medicine
 
 University of California, San Diego
 
-Email: jil095 at ucsd dot edu
+Email: jil095@ucsd.edu
 
 [Google Scholar](https://scholar.google.com/citations?user=lge1u8kAAAAJ&hl=en)
 
