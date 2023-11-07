@@ -8,7 +8,7 @@ display_title: Publications
 [Google Scholar profile](https://scholar.google.com/citations?user=lge1u8kAAAAJ)
 
 
-## Publications 
+## Publications  (To be updated)
 
  - M Molano-Maźon, J Barbosa, J Pastor-Ciurana, M Fradera, RY Zhang, J Forest, J Pozo, <ins>L Ji-An</ins>, CJ Cueva, J Rocha, D Narain, GR Yang. NeuroGym: An open resource for developing and sharing neuroscience tasks. PsyArXiv, aqc9n. 2022
 
@@ -22,7 +22,7 @@ display_title: Publications
 
 \* = equal contributions
 
-## Conference Posters 
+## Conference Posters  (To be updated)
 
  - <ins>L Ji-An</ins>, MG Mattar. What do meta-reinforcement learning networks learn in two-stage decision-making? Cosyne 2022
 

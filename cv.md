@@ -7,7 +7,7 @@ display_title: CV
 
 ## Research Interests 
 
-Computational Neuroscience, Computational Cognitive Science
+Computational Neuroscience, Computational Cognitive Science, Science of Large Language Models
 
 ## Education 
 
@@ -35,6 +35,8 @@ Advisor: Shangfei Wang GPA: 4.0/4.3 (1st of 46 students)
 
 ## Honors 
 
+Interpretability Hackathon 3.0, First Place 2023
+
 Innovative Research Grants Award (Kavli Institute, UCSD) 2022
 
 Outstanding Research Paper Award (USTC) 2020
@@ -60,7 +62,7 @@ China High School Biology Olympiad, Anhui Province, First Prize 2011
 National Olympiad in Informatics, Anhui Province, First Prize 2010
 
 
-## Research 
+## Research  (To be updated)
 
 ### Department of Neurosciences, UC San Diego
 
