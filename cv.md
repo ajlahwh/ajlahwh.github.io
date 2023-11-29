@@ -5,6 +5,9 @@ permalink: /cv/
 display_title: CV
 ---
 
+<embed src="{{site.url}}/assets/cv/cv.pdf" width="600" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+<a href="{{site.url}}/assets/cv/cv.pdf" target="_blank">View PDF</a>
+
 ## Research Interests 
 
 Computational Neuroscience, Computational Cognitive Science, Science of Large Language Models
