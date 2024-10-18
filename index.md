@@ -19,7 +19,7 @@ Email: jil095@ucsd.edu
 
 # About me
 
-I am a four-year PhD student in the Neurosciences Graduate Program, working with [Dr. Marcelo Mattar](https://www.mattarlab.com/people) and [Dr. Marcus Benna](https://bennalab.biosci.ucsd.edu/people/) at University of California San Diego. 
+I am a fifth-year PhD student in the Neurosciences Graduate Program, working with [Dr. Marcelo Mattar](https://www.mattarlab.com/people) and [Dr. Marcus Benna](https://bennalab.biosci.ucsd.edu/people/) at University of California San Diego. 
 I am interested in the fields of computational neuroscience, computational cognitive science, and the science of large language models. 
 I am currently working on: (1) automatic discovery of cognitive strategies from behavior; (2) backpropagation in the biological brain; (3) representational geometry of decision-making; (4) interpretability of large language models.
 
