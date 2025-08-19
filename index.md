@@ -17,7 +17,7 @@ Email: jil095@ucsd.edu
 
 [Google Scholar](https://scholar.google.com/citations?user=lge1u8kAAAAJ&hl=en)
 
-[CV](https://github.com/ajlahwh/ajlahwh.github.io/blob/main/%7B%7Bsite.url%7D%7D/assets/cv/cv.pdf)
+[CV](https://ajlahwh.github.io/cv/)
 
 # About me
 
