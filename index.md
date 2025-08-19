@@ -17,6 +17,8 @@ Email: jil095@ucsd.edu
 
 [Google Scholar](https://scholar.google.com/citations?user=lge1u8kAAAAJ&hl=en)
 
+[CV](https://github.com/ajlahwh/ajlahwh.github.io/blob/main/%7B%7Bsite.url%7D%7D/assets/cv/cv.pdf)
+
 # About me
 
 I am a fifth-year PhD student in the Neurosciences Graduate Program, working with [Dr. Marcelo Mattar](https://www.mattarlab.com/people) and [Dr. Marcus Benna](https://bennalab.biosci.ucsd.edu/people/) at University of California San Diego. 
