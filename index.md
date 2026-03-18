@@ -9,11 +9,9 @@ layout: home
 
 <h1 class="post-title">Ji-An Li 李济安</h1>
 
-School of Medicine
+New York University
 
-University of California, San Diego
-
-Email: jil095@ucsd.edu
+Email: jian.li.acad@gmail.com
 
 [Google Scholar](https://scholar.google.com/citations?user=lge1u8kAAAAJ&hl=en)
 
@@ -21,16 +19,12 @@ Email: jil095@ucsd.edu
 
 # About me
 
-I am a fifth-year Ph.D. candidate in the Neurosciences Graduate Program, working with [Dr. Marcelo Mattar](https://www.mattarlab.com/people) and [Dr. Marcus Benna](https://bennalab.biosci.ucsd.edu/people/) at University of California San Diego. 
-I am interested in the intersection of AI and neuroscience. 
+I am a postdoctoral researcher at New York University, working with [Dr. Marcelo Mattar](https://www.mattarlab.com/people). My research spans two areas: (1) AI for science---using deep learning to drive scientific discovery in neuroscience and cognitive science, and (2) LLM agents and interpretability.
 
-I am currently working on: (1) automatic discovery of cognitive strategies from behavior; (2) backpropagation in the biological brain; (3) representational geometry of decision-making; (4) interpretability of large language models.
+Previously, I was a Member of Technical Staff at [Fundamental Research Labs](https://shortcut.ai/), where I built agent infrastructure and evaluation systems for an LLM-powered spreadsheet agent. Before that, I was a Research Scientist Intern at Meta (Reality Labs, EMG Foundation Team).
 
-In parallel, I am a Research Scientist Intern at Meta (Reality Labs, EMG Foundation Team), where I develop error attribution analysis for multi-model AI systems.
+I received my Ph.D. in Neurosciences from UC San Diego in 2025, advised by [Dr. Marcus Benna](https://bennalab.biosci.ucsd.edu/people/) and [Dr. Marcelo Mattar](https://www.mattarlab.com/people). During my PhD, I also worked with [Dr. Stefano Fusi](https://ctn.zuckermaninstitute.columbia.edu/people/stefano-fusi) and [Dr. Robert Yang](https://www.metaconscious.org/people/) at Columbia University, and with [Dr. Xiao-Jing Wang](https://www.cns.nyu.edu/wanglab/) at New York University.
 
-Prior to my PhD, I worked with [Dr. Stefano Fusi](https://ctn.zuckermaninstitute.columbia.edu/people/stefano-fusi) and [Dr. Guangyu Robert Yang](https://www.metaconscious.org/people/) at Columbia University, with [Dr. Xiao-Jing Wang](https://www.cns.nyu.edu/wanglab/) at New York University, and with 
-[Dr. Xiaochu Zhang](http://en.hfnl.ustc.edu.cn/Faculty/Facultys/201107/t20110716_116215.html) at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) (as part of my [M.S. in Applied Statistics](http://en.business.ustc.edu.cn/audsf/list.htm)).
+I graduated with B.S. in Biological Science and B.E. in Computer Science and Technology from [USTC](https://en.ustc.edu.cn/), and M.S. in Applied Statistics from USTC.
 
-Before that, I graduated with [B.S. in Biological Science](https://en.biox.ustc.edu.cn/) and [B.E. in Computer Science and Technology](https://en.cs.ustc.edu.cn/) from [USTC](https://en.ustc.edu.cn/).
-
-My work has been published in Nature, Nature Human Behaviour, iScience, Physical Review Applied, Human Brain Mapping, and at conferences such as NeurIPS, Cosyne, and CogSci. I have also served as a reviewer for eLife, Science Advances, NeurIPS, ICLR, and other journals & conferences.
+My first author work has been published in Nature, Nature Reviews Neuroscience, Nature Human Behaviour, NeurIPS, iScience, and other venues. Full list of 20 publications (13 first/co-first author, 540+ citations, h-index 10) at [Google Scholar](https://scholar.google.com/citations?user=lge1u8kAAAAJ&hl=en).
